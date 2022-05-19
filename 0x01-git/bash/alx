@@ -1,12 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
- ALX School is so cool!
-=======
-
-
-#!/bin/bash
-
-echo ALX School
-
-
->>>>>>> 9f447aeb06dc0b5701910d7e27f675ccd54facb1
+ echo ALX
